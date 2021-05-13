@@ -2,10 +2,18 @@
     background-color: red;
 }
 
-#mainh1 {
+#body2 {
+    background-color: palegoldenrod;
+}
+
+#mainH1 {
     text-align: center;
 }
 
 #navBut {
     cursor: pointer;
+}
+
+#otherh1 {
+    color: purple;
 }
